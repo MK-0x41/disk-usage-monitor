@@ -51,4 +51,4 @@
 
    ## Lizenz
 
-   Dieses Projekt ist unter der MIT-Lizenz lizenziert. Siehe die [LICENSE](LICENSE)-Datei für Details.
+   Dieses Projekt ist unter der MIT-Lizenz lizenziert. Siehe die [LICENSE](https://git.cs30.de/MK_0x41/disk-usage-monitor/src/branch/main/LICENSE)-Datei für Details.
